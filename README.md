@@ -6,6 +6,8 @@ I am currently a college student pursuing studies in computer science with a pas
 - 😆 I’m looking to collaborate with other people
 - ⚡ Fun fact: I love to run, hike, and bike!
 
+<i> "Strive for continuous improvement, instead of perfection" - Kim Collins </i>
+
 ### Languages/Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
