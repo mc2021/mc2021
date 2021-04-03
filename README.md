@@ -43,5 +43,7 @@ I am currently a college student pursuing studies in computer science with a pas
 <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="Matthew's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mc2021&count_private=true&theme=tokyonight&showicons=true" />
+<br />
+<img align="left" alt="Matthew's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mc2021&langs_count=5&theme=tokyonight" />
 
 </details>
