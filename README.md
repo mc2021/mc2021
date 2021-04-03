@@ -40,7 +40,7 @@ I am currently a college student pursuing studies in computer science with a pas
 
 <details>
 <summary>:zap: GitHub Stats</summary>
-
+<!-- Change "night" to "light" if viewing from Github's light mode -->
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mc2021&count_private=true&theme=tokyonight&showicons=true" />
 <br/>
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mc2021&langs_count=5&theme=tokyonight" />
