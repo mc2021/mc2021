@@ -25,15 +25,15 @@ I am currently a college student pursuing studies in computer science with a pas
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
+<br/>
 
 ### Operating Systems:
 <img align="left" alt="windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
 <img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
 
-<br />
-<br />
+<br/>
+<br/>
 
 <!--END_SECTION:activity-->
 
@@ -43,7 +43,7 @@ I am currently a college student pursuing studies in computer science with a pas
 <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="Matthew's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mc2021&count_private=true&theme=tokyonight&showicons=true" />
-<br />
+<br/>
 <img align="left" alt="Matthew's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mc2021&langs_count=5&theme=tokyonight" />
 
 </details>
