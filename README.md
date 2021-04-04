@@ -32,7 +32,7 @@ I am currently a college student pursuing studies in computer science with a pas
 </details>
 
 <details>
-<summary>:zap: GitHub Stats (better read on night mode) </summary>
+<summary>:zap: GitHub Stats (switch to night mode!) </summary>
 <!-- Change "night" to "light" if viewing from Github's light mode -->
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mc2021&count_private=true&theme=tokyonight&showicons=true" />
 <br/>
