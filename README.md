@@ -1,9 +1,9 @@
 ### Hi there, I'm Matthew 👋
 
-I am currently a college student pursuing studies in computer science with a passion of solving complex problems with code and software. Presently, I am working on side projects and enhancing my coding expertise. I hope to encounter new challenges and find new collaborative opportunities! 😄
+I am currently a college student pursuing studies in computer science with a passion of solving complex problems with code and software. Presently, I am working on side projects and enhancing my coding expertise. I hope to encounter new challenges and find new collaborative opportunities!
 
 - 🖥️ I'm currently working on private repositories
-- 😆 I’m looking to collaborate with other people!
+- 😄 I’m looking to collaborate with other people!
 
 <i> "Strive for continuous improvement, instead of perfection" - Kim Collins </i>
 
