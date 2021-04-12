@@ -4,7 +4,6 @@ I am currently a college student pursuing studies in computer science with a pas
 
 - 🖥️ I'm currently working on private repositories
 - 😆 I’m looking to collaborate with other people!
-- ⚡ Fun fact: I love to run, hike, and bike!
 
 <i> "Strive for continuous improvement, instead of perfection" - Kim Collins </i>
 
@@ -32,7 +31,7 @@ I am currently a college student pursuing studies in computer science with a pas
 </details>
 
 <details>
-<summary>:zap: GitHub Stats (switch to night mode!) </summary>
+<summary>:zap: GitHub Stats </summary>
 <!-- Change "night" to "light" if viewing from Github's light mode -->
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mc2021&count_private=true&theme=tokyonight&showicons=true" />
 <br/>
