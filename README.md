@@ -4,7 +4,7 @@ I am currently an incoming college student pursuing studies in computer science 
 
 - 🖥️ I'm currently working on private repositories
 - 😄 I’m looking to collaborate with others!
-- 🤩 I'm interested in software development, web development, data science, and machine learning
+- 🤩 I'm interested in software development, data science, and machine learning
 
 <i> "Strive for continuous improvement, instead of perfection" - Kim Collins </i>
 
