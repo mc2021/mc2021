@@ -1,14 +1,10 @@
 ### Hi there, I'm Matthew 👋
 
-I am currently pursuing studies in computer science with a passion of solving complex problems with code and software. Presently, I am working on side projects and enhancing my coding expertise. I hope to encounter new challenges and discover new collaborative opportunities!
-
-- 🖥️ I'm currently working on private repositories
-- 😄 I’m looking to collaborate with others!
-- 🤩 I'm interested in full stack development and data science
+I am currently a college student pursuing studies in computer science. Presently, I am working on side projects and enhancing my coding expertise. I hope to encounter new challenges and discover new collaborative opportunities!
 
 <i> "Strive for continuous improvement, instead of perfection" - Kim Collins </i>
 
-### Let's connect!: 
+### Linkedin:
 
 <a href="https://www.linkedin.com/in/matthew-c-8123b5210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pramoddutta" height="30" width="40" /></a>
 
