@@ -2,7 +2,7 @@
 
 I am currently a college student pursuing studies in computer science with a passion of solving complex problems with code and software. Presently, I am working on side projects and enhancing my coding expertise. I hope to encounter new challenges and discover new collaborative opportunities!
 
-<i> "Strive for continuous improvement, instead of perfection" - Kim Collins </i>
+<i> "It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment." - Carl Friedrich Gauss </i>
 
 ### Linkedin:
 
